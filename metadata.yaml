@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Adam
     - http://en.wikipedia.org/wiki/Paul_Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15943#Le-conte-futur
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2005-05-30'
 gutenberg_type: Text
